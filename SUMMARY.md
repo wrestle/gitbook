@@ -3,6 +3,7 @@
 	* [前序](book/chapter-0/00.md)
 	* [序](book/chapter-0/01.md)
 	* [C代码风格](book/chapter-0/02.md)
+	* [C代码规范](book/chapter-0/04.md)
 	* [变量](book/chapter-0/03.md)
 * [第二部分](book/chapter-1/Seperate-1.md)
 	* [指针(上)](book/chapter-1/10.md)
