@@ -11,5 +11,6 @@
 	* [预处理器](book/chapter-1/12.md)
 	* [效率至上(上)](book/chapter-1/13.md)
 	* [效率至上(下)](book/chapter-1/14.md)
+	* [未曾领略的新风景](book/chapter-1/15.md)
 * [第三部分](book/chapter-2/Seperate-2.md)
 	* [错误处理](book/chapter-2/20.md)
