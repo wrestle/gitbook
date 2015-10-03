@@ -18,3 +18,4 @@
 	* [开始行动](book/chapter-2/21.md)
 	* [单线程备份(上)](book/chapter-2/22.md)
 	* [单线程备份(下)](book/chapter-2/23.md)
+	* [多线程备份](book/chapter-2/24.md)
