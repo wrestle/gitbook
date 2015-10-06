@@ -19,4 +19,5 @@
 	* [单线程备份(上)](book/chapter-2/22.md)
 	* [单线程备份(下)](book/chapter-2/23.md)
 	* [多线程备份](book/chapter-2/24.md)
+	* [总结](book/chapter-2/25.md)
 * [第四部分](book/chapter-3/Seperate-3.md)
