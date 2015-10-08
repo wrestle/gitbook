@@ -3,7 +3,6 @@
 	"introduction": "一本 C 语言进阶实战的电子书。", 
 	"description": "C",
 	"path": {
-		"content": "book",
 		"toc": "SUMMARY.md"
 	}
 }
