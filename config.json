@@ -1,4 +1,7 @@
 {
 	"name": "Real C",
-	"introduction": "一本 C 语言进阶实战的电子书。"
+	"introduction": "一本 C 语言进阶实战的电子书。",
+	"path" : {
+	 "toc" : "SUMMARY.md"
+	}
 }
